@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Sistema Cadastro</string>
+    <string name="usuario_txt">Entre com seu usuário</string>
+    <string name="senha_txt">Entre com a sua senha</string>
+    <!-- Strings related to login -->
+    <string name="nome_txt">Entre com seu nome</string>
+    <string name="cpf_txt">Entre com seu CPF</string>
+    <string name="telefone_txt">Entre com seu telefone</string>
+</resources>
