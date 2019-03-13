@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "62288798869",
+    "firebase_url": "https://banco-85707.firebaseio.com",
+    "project_id": "banco-85707",
+    "storage_bucket": "banco-85707.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:62288798869:android:a8a6f5983ca93d9b",
+        "android_client_info": {
+          "package_name": "com.example.myfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "62288798869-d0t90siodnq2u80aboo9pqo5ovm70oip.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myfirebase",
+            "certificate_hash": "7ee396036aef4e6b7a8ee9518fc279772494fc11"
+          }
+        },
+        {
+          "client_id": "62288798869-5dbhjmerftsnhfubipq6paqs68gckdhj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0V5VQorfxbgFJqb-xGqxGDbPwmbzcjxw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "62288798869-5dbhjmerftsnhfubipq6paqs68gckdhj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
